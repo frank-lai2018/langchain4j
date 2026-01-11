@@ -190,5 +190,7 @@
 		<module>langchain4j-04low-high-api</module>
 		<module>langchain4j-05model-parameters</module>
 		<module>langchain4j-06chat-image</module>
+		<module>langchain4j-08chat-memory</module>
+		<module>langchain4j-09chat-prompt</module>
 	</modules>
 </project>
